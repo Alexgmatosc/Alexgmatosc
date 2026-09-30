@@ -121,7 +121,7 @@ When I'm not writing code, you'll probably find me:
 
 <div align="center">
   <a href="https://42madrid.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/Alexgmatosc/Alexgmatosc/main/assets/badge42.svg?v=1.0.0" width="100%" alt="Alexander Matos - 42 Madrid Cadet" />
+    <img src="https://raw.githubusercontent.com/Alexgmatosc/Alexgmatosc/main/assets/badge42.svg?v=1.0.1" width="100%" alt="Alexander Matos - 42 Madrid Cadet" />
   </a>
 </div>
 
