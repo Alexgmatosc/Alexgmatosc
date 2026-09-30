@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://alexmatos.dev">
-    <img src="https://raw.githubusercontent.com/Alexgmatosc/Alexgmatosc/main/assets/hero.svg" width="100%" alt="Alexander Matos - WebDev & UXDesign" />
+    <img src="https://raw.githubusercontent.com/Alexgmatosc/Alexgmatosc/main/assets/hero.svg?v=14.33" width="100%" alt="Alexander Matos - WebDev & UXDesign" />
   </a>
 </div>
 
