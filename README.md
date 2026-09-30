@@ -115,6 +115,16 @@ When I'm not writing code, you'll probably find me:
 
 ---
 
+### 🎓 42 Madrid Stats
+
+<div align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/black/alematos" alt="alematos's 42 stats" />
+  </a>
+</div>
+
+---
+
 ### 📫 Contact & Links
 
 <div align="center">
