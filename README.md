@@ -37,7 +37,8 @@
 
 ---
 
-## 🇪🇸 Español
+<details open>
+<summary><h3>🇪🇸 Versión en Español <i>(Click para plegar/desplegar)</i></h3></summary>
 
 ### 👋 ¡Hola! Soy Alexander
 
@@ -59,9 +60,12 @@ Cuando no estoy escribiendo código, probablemente me encuentres:
 - 🎸 Tocando música para divertirme y experimentando con sonido
 - 🏎️ Viendo la Fórmula 1 o 🖋️ tatuando
 
----
+</details>
 
-## 🇬🇧 English
+<br />
+
+<details>
+<summary><h3>🇬🇧 English Version <i>(Click to expand)</i></h3></summary>
 
 ### 👋 Hi! I'm Alexander
 
@@ -82,6 +86,8 @@ When I'm not writing code, you'll probably find me:
 - 🖌️ Doing calligraphy, lettering, and sign painting
 - 🎸 Playing music for fun and exploring sound
 - 🏎️ Watching Formula 1 or 🖋️ tattooing
+
+</details>
 
 ---
 
