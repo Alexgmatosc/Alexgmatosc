@@ -1,0 +1,128 @@
+<div align="right">
+  <a href="#-español">
+    <img src="https://img.shields.io/badge/Versi%C3%B3n-Espa%C3%B1ol-10b981?style=flat-square&logo=readme&logoColor=white" alt="Español" />
+  </a>
+  <a href="#-english">
+    <img src="https://img.shields.io/badge/Version-English-3b82f6?style=flat-square&logo=readme&logoColor=white" alt="English" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,24&height=180&section=header&text=Alexander%20Matos&fontSize=42&fontAlignY=38&desc=Web%20Developer%20%7C%20Fine%20Arts%20%7C%2042%20Madrid&descAlignY=60&descSize=17" width="100%" alt="Alexander Matos" />
+</div>
+
+<div align="center">
+  <a href="https://alexmatos.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Web+Developer+%26+UX+Designer+%40+DGTL;Fine+Arts+Aesthetics+%2B+Clean+Code;Student+%40+42+Madrid+(C+%26+Algorithms);Fixed-Gear%2C+Lettering%2C+Music+%26+F1" alt="Typing SVG" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://alexmatos.dev"><img src="https://img.shields.io/badge/Portfolio-alexmatos.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/alematos-/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Alexgmatosc"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <em>🎨 Bellas Artes &nbsp;∩&nbsp; ⚙️ 42 Madrid &nbsp;∩&nbsp; 💻 Modern Web Development</em>
+</p>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,astro,tailwind,sass,nodejs,php,c,mysql,docker,git,github,figma,vercel" alt="Skills Grid" />
+  </a>
+</div>
+
+<br />
+
+---
+
+## 🇪🇸 Español
+
+### 👋 ¡Hola! Soy Alexander
+
+**Desarrollador Web | Estudiante en 42 Madrid | Entusiasta del Diseño y el Código**
+
+Actualmente trabajo como desarrollador web en **DGTL** en Madrid. Vengo del mundo de las **Bellas Artes**, pero mi pasión por crear me llevó al código. Soy estudiante en **42 Madrid**, una experiencia inmersiva donde he forjado una base sólida en lógica y resolución de problemas, aprendiendo a trabajar con `C` a nivel de sistemas y algoritmos. Me encanta combinar esa base estructurada con el desarrollo de interfaces limpias, accesibles y bien diseñadas.
+
+#### 👨‍💻 Sobre mí
+- 🏢 Trabajo desarrollando soluciones web y explorando nuevas tecnologías en producción.
+- 🚀 Mi portafolio y proyectos recientes están en [alexmatos.dev](https://alexmatos.dev).
+- 🧠 Enfocado en **JavaScript/TypeScript**, **React**, **Astro** y **Node.js**, sin dejar de lado **PHP**.
+- 🎨 Disfruto maquetando y diseñando con **Figma**, **Tailwind CSS** y **SASS**.
+- 💻 **Agnóstico al sistema operativo**: me adapto a lo que el proyecto necesite, manejando mis entornos con soltura mediante **Docker** y **Git**.
+
+#### 🚴‍♂️ Fuera del teclado...
+Cuando no estoy escribiendo código, probablemente me encuentres:
+- 🚲 Pedaleando por Madrid en mi bicicleta de piñón fijo
+- 🖌️ Haciendo caligrafía, lettering y cartelería tradicional
+- 🎸 Tocando música para divertirme y experimentando con sonido
+- 🏎️ Viendo la Fórmula 1 o 🖋️ tatuando
+
+---
+
+## 🇬🇧 English
+
+### 👋 Hi! I'm Alexander
+
+**Web Developer | Student at 42 Madrid | Design & Code Enthusiast**
+
+I currently work as a web developer at **DGTL** in Madrid. I come from a **Fine Arts** background, but my passion for creating led me to code. I'm a student at **42 Madrid**, an immersive experience where I've built a solid foundation in logic and problem-solving, learning to work with `C` at a systems and algorithmic level. I love combining that structured foundation with developing clean, accessible, and well-designed interfaces.
+
+#### 👨‍💻 About me
+- 🏢 I work developing web solutions and exploring modern technologies in production.
+- 🚀 My portfolio and recent projects are at [alexmatos.dev](https://alexmatos.dev).
+- 🧠 Focused on **JavaScript/TypeScript**, **React**, **Astro**, and **Node.js**, while keeping up with classic **PHP** development.
+- 🎨 I enjoy designing and building layouts with **Figma**, **Tailwind CSS**, and **SASS**.
+- 💻 **OS agnostic**: I adapt to whatever the project needs, handling my environments smoothly with **Docker** and **Git**.
+
+#### 🚴‍♂️ Outside the keyboard...
+When I'm not writing code, you'll probably find me:
+- 🚲 Riding my fixed-gear bike around Madrid
+- 🖌️ Doing calligraphy, lettering, and sign painting
+- 🎸 Playing music for fun and exploring sound
+- 🏎️ Watching Formula 1 or 🖋️ tattooing
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) |
+| **Backend & Logic** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Tools & Design** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <a href="https://github.com/Alexgmatosc">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexgmatosc&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+### 📫 Contact & Links
+
+<div align="center">
+  <a href="https://alexmatos.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-alexmatos.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/alematos-/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:alexgmatosc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alexgmatosc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Crafted with passion, designed with care & coded with precision.</sub>
+</div>
