@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 680 240" width="100%" height="100%" fill="none">
+  <defs>
+    <!-- Brutalist Grid Pattern -->
+    <pattern id="grid42" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#ffffff" stroke-width="1" stroke-opacity="0.03" />
+    </pattern>
+
+    <!-- Scanline effect overlay -->
+    <pattern id="scanlines42" width="100" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100" y2="0" stroke="#000000" stroke-width="1.5" stroke-opacity="0.35" />
+    </pattern>
+
+    <!-- High-contrast Grayscale filter matching alexmatos.dev -->
+    <filter id="acid-bw">
+      <feColorMatrix type="matrix" values="0.33 0.33 0.33 0 0
+                                           0.33 0.33 0.33 0 0
+                                           0.33 0.33 0.33 0 0
+                                           0    0    0    1 0" />
+      <feComponentTransfer>
+        <feFuncR type="linear" slope="1.25" intercept="-0.1" />
+        <feFuncG type="linear" slope="1.25" intercept="-0.1" />
+        <feFuncB type="linear" slope="1.25" intercept="-0.1" />
+      </feComponentTransfer>
+    </filter>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700;800&amp;display=swap');
+
+    .mono {
+      font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    .pulse-dot {
+      animation: blink 1.2s infinite;
+    }
+  </style>
+
+  <!-- Background base: #0d0d0d -->
+  <rect width="680" height="240" rx="2" fill="#0d0d0d" />
+  <rect width="680" height="240" fill="url(#grid42)" />
+  <rect width="680" height="240" fill="url(#scanlines42)" pointer-events="none" />
+
+  <!-- Outer brutalist double frame in crimson #c82a2a -->
+  <rect x="8" y="8" width="664" height="224" fill="none" stroke="#c82a2a" stroke-width="1.5" />
+  <rect x="12" y="12" width="656" height="216" fill="none" stroke="#c82a2a" stroke-width="0.5" stroke-opacity="0.3" />
+
+  <!-- Top-left Corner Badge: 42_MADRID -->
+  <rect x="22" y="2" width="95" height="18" fill="#c82a2a" />
+  <text x="69.5" y="14.5" class="mono" font-size="9.5" font-weight="bold" fill="#0d0d0d" text-anchor="middle" letter-spacing="1.5">42_MADRID</text>
+
+  <!-- Top-right Telemetry -->
+  <circle cx="525" cy="21" r="3.5" fill="#c82a2a" class="pulse-dot" />
+  <text x="656" y="24" class="mono" font-size="9" fill="#c82a2a" opacity="0.9" text-anchor="end" letter-spacing="1">[ CADET // ACTIVE_STUDENT ]</text>
+
+  <!-- Left: Photo Frame in Acid Brutalist style -->
+  <rect x="28" y="38" width="94" height="94" fill="#161616" stroke="#c82a2a" stroke-width="1.5" />
+  <image href="data:image/jpeg;base64,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" x="30" y="40" width="90" height="90" preserveAspectRatio="xMidYMid slice" filter="url(#acid-bw)" />
+  
+  <!-- Red tint overlay on hover/visual -->
+  <rect x="30" y="40" width="90" height="90" fill="#c82a2a" opacity="0.15" mix-blend-mode="multiply" />
+
+  <!-- Photo subtitle: login -->
+  <rect x="28" y="136" width="94" height="19" fill="#121212" stroke="#c82a2a" stroke-width="1" />
+  <text x="75" y="149" class="mono" font-size="9.5" font-weight="bold" fill="#e0e0e0" text-anchor="middle" letter-spacing="1">alematos</text>
+
+  <!-- Center: Student Details -->
+  <text x="142" y="60" class="mono" font-size="18" font-weight="800" fill="#e0e0e0" letter-spacing="-0.5">ALEXANDER MATOS</text>
+  <text x="142" y="80" class="mono" font-size="11" font-weight="600" fill="#c82a2a" letter-spacing="0.5">CURSUS: 42cursus  ·  GRADE: Cadet</text>
+  <text x="142" y="98" class="mono" font-size="9.5" fill="#888888" letter-spacing="0.2">alematos@student.42madrid.com</text>
+
+  <!-- Fine Divider -->
+  <line x1="142" y1="112" x2="640" y2="112" stroke="#252525" stroke-width="1" />
+
+  <!-- Level Progress Section -->
+  <text x="142" y="132" class="mono" font-size="11" font-weight="700" fill="#e0e0e0" letter-spacing="0.8">PROGRESS // LEVEL 1</text>
+  <text x="470" y="132" class="mono" font-size="11" font-weight="800" fill="#c82a2a" text-anchor="end">69%</text>
+
+  <!-- Progress Bar Container -->
+  <rect x="142" y="140" width="328" height="14" fill="#141414" stroke="#c82a2a" stroke-width="1" />
+  <!-- Progress Bar Fill (69% of 324 = 224px) -->
+  <rect x="144" y="142" width="224" height="10" fill="#c82a2a" />
+  
+  <!-- Segment lines inside progress bar -->
+  <line x1="180" y1="142" x2="180" y2="152" stroke="#0d0d0d" stroke-width="1.5" />
+  <line x1="220" y1="142" x2="220" y2="152" stroke="#0d0d0d" stroke-width="1.5" />
+  <line x1="260" y1="142" x2="260" y2="152" stroke="#0d0d0d" stroke-width="1.5" />
+  <line x1="300" y1="142" x2="300" y2="152" stroke="#0d0d0d" stroke-width="1.5" />
+  <line x1="340" y1="142" x2="340" y2="152" stroke="#0d0d0d" stroke-width="1.5" />
+
+  <!-- Badges Row -->
+  <rect x="142" y="168" width="75" height="20" fill="#c82a2a" />
+  <text x="179.5" y="181.5" class="mono" font-size="9" font-weight="bold" fill="#0d0d0d" text-anchor="middle" letter-spacing="1">CADET</text>
+
+  <rect x="225" y="168" width="180" height="20" fill="#121212" stroke="#c82a2a" stroke-width="1" />
+  <text x="315" y="181.5" class="mono" font-size="9" font-weight="600" fill="#e0e0e0" text-anchor="middle" letter-spacing="0.5">C · ALGORITHMS · UNIX</text>
+
+  <!-- Official 42 Logo on right side (scaled & styled) -->
+  <g transform="translate(505, 128) scale(1.6)">
+    <!-- 4 -->
+    <path d="M11.813 0H7.874L0 7.875v3.188h7.875V15h3.938V7.875H3.936L11.814 0zM13.5 3.938L17.438 0H13.5v3.938z" fill="#e0e0e0" />
+    <path d="M21.375 3.938V0h-3.938v3.938L13.5 7.874v3.938h3.938V7.874l3.937-3.938z" fill="#e0e0e0" />
+    <!-- 2 -->
+    <path d="M21.375 7.875l-3.938 3.938h3.938V7.874z" fill="#c82a2a" />
+  </g>
+
+  <!-- Bottom Telemetry Status Line -->
+  <text x="28" y="220" class="mono" font-size="8.5" fill="#555555" letter-spacing="1">+--- 42_NETWORK // MADRID CAMPUS --- SYS_VERIFIED ---+</text>
+</svg>

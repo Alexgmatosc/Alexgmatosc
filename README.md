@@ -104,21 +104,24 @@ When I'm not writing code, you'll probably find me:
 
 ---
 
-### 📊 GitHub Activity
+### 📊 _ACTIVIDAD // GITHUB STREAM
 
 <div align="center">
   <a href="https://github.com/Alexgmatosc">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexgmatosc&theme=dark&background=0D0D0D&border=C82A2A&stroke=C82A2A&ring=C82A2A&fire=C82A2A&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=C82A2A&sideLabels=888888&dates=888888&border_radius=4" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Alexgmatosc&show_icons=true&bg_color=0D0D0D&border_color=C82A2A&title_color=C82A2A&text_color=E0E0E0&icon_color=C82A2A&border_radius=0" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Alexgmatosc">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexgmatosc&theme=dark&background=0D0D0D&border=C82A2A&stroke=C82A2A&ring=C82A2A&fire=C82A2A&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=C82A2A&sideLabels=888888&dates=888888&border_radius=0" alt="GitHub Streak" />
   </a>
 </div>
 
 ---
 
-### 🎓 42 Madrid Stats
+### 🎓 _42_MADRID // CADET STATUS
 
 <div align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/black/alematos" alt="alematos's 42 stats" />
+  <a href="https://42madrid.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/Alexgmatosc/Alexgmatosc/main/assets/badge42.svg?v=1.0.0" width="100%" alt="Alexander Matos - 42 Madrid Cadet" />
   </a>
 </div>
 
