@@ -1,28 +1,26 @@
 <span id="top"></span>
 <div align="right">
   <a href="#espanol">
-    <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8_Espa%C3%B1ol-10b981?style=for-the-badge" alt="Español" />
+    <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8_Espa%C3%B1ol-c82a2a?style=for-the-badge" alt="Español" />
   </a>
   &nbsp;
   <a href="#english">
-    <img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7_English-3b82f6?style=for-the-badge" alt="English" />
+    <img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7_English-181818?style=for-the-badge" alt="English" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,24&height=180&section=header&text=Alexander%20Matos&fontSize=42&fontAlignY=38&desc=Web%20Developer%20%7C%20Fine%20Arts%20%7C%2042%20Madrid&descAlignY=60&descSize=17" width="100%" alt="Alexander Matos" />
 </div>
 
 <div align="center">
   <a href="https://alexmatos.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Web+Developer+%26+UX+Designer+%40+DGTL;Fine+Arts+Aesthetics+%2B+Clean+Code;Student+%40+42+Madrid+(C+%26+Algorithms);Fixed-Gear%2C+Lettering%2C+Music+%26+F1" alt="Typing SVG" />
+    <img src="https://raw.githubusercontent.com/Alexgmatosc/Alexgmatosc/main/assets/hero.svg" width="100%" alt="Alexander Matos - WebDev & UXDesign" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://alexmatos.dev"><img src="https://img.shields.io/badge/Portfolio-alexmatos.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+  <a href="https://alexmatos.dev"><img src="https://img.shields.io/badge/Portfolio-alexmatos.dev-c82a2a?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/alematos-/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Alexgmatosc"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://github.com/Alexgmatosc"><img src="https://img.shields.io/badge/GitHub-Profile-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
@@ -111,7 +109,7 @@ When I'm not writing code, you'll probably find me:
 
 <div align="center">
   <a href="https://github.com/Alexgmatosc">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexgmatosc&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexgmatosc&theme=dark&background=0D0D0D&border=C82A2A&stroke=C82A2A&ring=C82A2A&fire=C82A2A&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=C82A2A&sideLabels=888888&dates=888888&border_radius=4" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -121,7 +119,7 @@ When I'm not writing code, you'll probably find me:
 
 <div align="center">
   <a href="https://alexmatos.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-alexmatos.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-alexmatos.dev-c82a2a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/alematos-/" target="_blank">
@@ -129,7 +127,7 @@ When I'm not writing code, you'll probably find me:
   </a>
   &nbsp;
   <a href="mailto:alexgmatosc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-alexgmatosc%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-alexgmatosc%40gmail.com-181818?style=for-the-badge&logo=gmail&logoColor=c82a2a" alt="Email" />
   </a>
 </div>
 
