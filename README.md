@@ -1,9 +1,11 @@
+<span id="top"></span>
 <div align="right">
-  <a href="#-español">
-    <img src="https://img.shields.io/badge/Versi%C3%B3n-Espa%C3%B1ol-10b981?style=flat-square&logo=readme&logoColor=white" alt="Español" />
+  <a href="#espanol">
+    <img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8_Espa%C3%B1ol-10b981?style=for-the-badge" alt="Español" />
   </a>
-  <a href="#-english">
-    <img src="https://img.shields.io/badge/Version-English-3b82f6?style=flat-square&logo=readme&logoColor=white" alt="English" />
+  &nbsp;
+  <a href="#english">
+    <img src="https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7_English-3b82f6?style=for-the-badge" alt="English" />
   </a>
 </div>
 
@@ -37,8 +39,8 @@
 
 ---
 
-<details open>
-<summary><h3>🇪🇸 Versión en Español <i>(Click para plegar/desplegar)</i></h3></summary>
+<span id="espanol"></span>
+## 🇪🇸 Español
 
 ### 👋 ¡Hola! Soy Alexander
 
@@ -60,12 +62,14 @@ Cuando no estoy escribiendo código, probablemente me encuentres:
 - 🎸 Tocando música para divertirme y experimentando con sonido
 - 🏎️ Viendo la Fórmula 1 o 🖋️ tatuando
 
-</details>
+<div align="right">
+  <sub><a href="#top">▲ Volver arriba</a></sub>
+</div>
 
-<br />
+---
 
-<details>
-<summary><h3>🇬🇧 English Version <i>(Click to expand)</i></h3></summary>
+<span id="english"></span>
+## 🇬🇧 English
 
 ### 👋 Hi! I'm Alexander
 
@@ -87,7 +91,9 @@ When I'm not writing code, you'll probably find me:
 - 🎸 Playing music for fun and exploring sound
 - 🏎️ Watching Formula 1 or 🖋️ tattooing
 
-</details>
+<div align="right">
+  <sub><a href="#top">▲ Back to top</a></sub>
+</div>
 
 ---
 
