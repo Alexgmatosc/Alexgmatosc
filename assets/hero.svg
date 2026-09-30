@@ -9,24 +9,6 @@
     <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
       <line x1="0" y1="0" x2="100" y2="0" stroke="#000000" stroke-width="1.5" stroke-opacity="0.35" />
     </pattern>
-
-    <!-- Typing Paths for animated textPath reveal at y=282 -->
-    <path id="typePath0">
-      <animate id="a0" attributeName="d" begin="0s;a3.end" dur="4200ms" fill="remove"
-        values="m65,282 h0 ; m65,282 h700 ; m65,282 h700 ; m65,282 h0" keyTimes="0;0.45;0.88;1" />
-    </path>
-    <path id="typePath1">
-      <animate id="a1" attributeName="d" begin="a0.end" dur="4200ms" fill="remove"
-        values="m65,282 h0 ; m65,282 h700 ; m65,282 h700 ; m65,282 h0" keyTimes="0;0.45;0.88;1" />
-    </path>
-    <path id="typePath2">
-      <animate id="a2" attributeName="d" begin="a1.end" dur="4200ms" fill="remove"
-        values="m65,282 h0 ; m65,282 h700 ; m65,282 h700 ; m65,282 h0" keyTimes="0;0.45;0.88;1" />
-    </path>
-    <path id="typePath3">
-      <animate id="a3" attributeName="d" begin="a2.end" dur="4200ms" fill="remove"
-        values="m65,282 h0 ; m65,282 h700 ; m65,282 h700 ; m65,282 h0" keyTimes="0;0.45;0.88;1" />
-    </path>
   </defs>
 
   <style>
@@ -96,27 +78,16 @@
   <!-- Cyber-terminal block with primary red accent border -->
   <line x1="48" y1="232" x2="48" y2="294" stroke="#c82a2a" stroke-width="3" />
 
-  <!-- Static Terminal Line 1 in JetBrains Mono -->
+  <!-- Terminal Line 1 in JetBrains Mono -->
   <text x="65" y="254" class="terminal-fixed">&gt; DISEÑO Y DESARROLLO DE EXPERIENCIAS DIGITALES.</text>
 
-  <!-- Animated Terminal Line 2 in JetBrains Mono -->
-  <text class="terminal-dynamic">
-    <textPath href="#typePath0" xlink:href="#typePath0">&gt; EXPERIENCIAS DIGITALES FUNCIONALES Y ESTÉTICAS. █</textPath>
-  </text>
-  <text class="terminal-dynamic">
-    <textPath href="#typePath1" xlink:href="#typePath1">&gt; WEB DEVELOPER @ DGTL · FULL STACK &amp; UX DESIGN. █</textPath>
-  </text>
-  <text class="terminal-dynamic">
-    <textPath href="#typePath2" xlink:href="#typePath2">&gt; ESTUDIANTE EN 42 MADRID (C · SISTEMAS · LÓGICA). █</textPath>
-  </text>
-  <text class="terminal-dynamic">
-    <textPath href="#typePath3" xlink:href="#typePath3">&gt; FUSIÓN DE BELLAS ARTES Y DESARROLLO MODERNO. █</textPath>
-  </text>
+  <!-- Terminal Line 2 in JetBrains Mono with live pulsing cursor -->
+  <text x="65" y="282" class="terminal-dynamic">&gt; EXPERIENCIAS DIGITALES FUNCIONALES, ESTÉTICAS Y LLAMATIVAS. <tspan class="pulse-dot">█</tspan></text>
 
   <!-- Bottom Terminal Status Bar in JetBrains Mono -->
   <text x="48" y="340" class="mono" font-size="9.5" fill="#666666" letter-spacing="1">+--- DATA_STREAM: OK --- MADRID, ES --- ALX.MTOS ---+</text>
 
-  <!-- Bottom-right Badge: Ver. 14.33 in JetBrains Mono -->
+  <!-- Bottom-right Badge: Ver. 14.34 in JetBrains Mono -->
   <rect x="710" y="348" width="110" height="20" fill="#121212" stroke="#c82a2a" stroke-width="1.2" />
-  <text x="765" y="362" class="mono" font-size="9.5" font-weight="bold" fill="#c82a2a" text-anchor="middle" letter-spacing="1.5">Ver. 14.33</text>
+  <text x="765" y="362" class="mono" font-size="9.5" font-weight="bold" fill="#c82a2a" text-anchor="middle" letter-spacing="1.5">Ver. 14.34</text>
 </svg>

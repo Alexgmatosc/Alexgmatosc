@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://alexmatos.dev">
-    <img src="https://raw.githubusercontent.com/Alexgmatosc/Alexgmatosc/main/assets/hero.svg?v=14.33.1" width="100%" alt="Alexander Matos - WebDev & UXDesign" />
+    <img src="https://raw.githubusercontent.com/Alexgmatosc/Alexgmatosc/main/assets/hero.svg?v=14.34.0" width="100%" alt="Alexander Matos - WebDev & UXDesign" />
   </a>
 </div>
 
@@ -24,12 +24,12 @@
 </p>
 
 <p align="center">
-  <em>🎨 Bellas Artes &nbsp;∩&nbsp; ⚙️ 42 Madrid &nbsp;∩&nbsp; 💻 Modern Web Development</em>
+  <em>🎨 Artes Plásticas &nbsp;∩&nbsp; ⚙️ 42 Madrid &nbsp;∩&nbsp; 💻 Modern Web Development</em>
 </p>
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,astro,tailwind,sass,nodejs,php,c,mysql,docker,git,github,figma,vercel" alt="Skills Grid" />
+    <img src="https://skillicons.dev/icons?i=react,astro,ts,nodejs,php,tailwind,linux,bash,git,c,figma" alt="Skills Grid" />
   </a>
 </div>
 
@@ -44,7 +44,7 @@
 
 **Desarrollador Web | Estudiante en 42 Madrid | Entusiasta del Diseño y el Código**
 
-Actualmente trabajo como desarrollador web en **DGTL** en Madrid. Vengo del mundo de las **Bellas Artes**, pero mi pasión por crear me llevó al código. Soy estudiante en **42 Madrid**, una experiencia inmersiva donde he forjado una base sólida en lógica y resolución de problemas, aprendiendo a trabajar con `C` a nivel de sistemas y algoritmos. Me encanta combinar esa base estructurada con el desarrollo de interfaces limpias, accesibles y bien diseñadas.
+Actualmente trabajo como desarrollador web en **DGTL** en Madrid. Vengo del mundo de las **Artes Plásticas**, pero mi pasión por crear me llevó al código. Soy estudiante en **42 Madrid**, una experiencia inmersiva donde he forjado una base sólida en lógica y resolución de problemas, aprendiendo a trabajar con `C` a nivel de sistemas y algoritmos. Me encanta combinar esa base estructurada con el desarrollo de interfaces limpias, accesibles y bien diseñadas.
 
 #### 👨‍💻 Sobre mí
 - 🏢 Trabajo desarrollando soluciones web y explorando nuevas tecnologías en producción.
@@ -73,7 +73,7 @@ Cuando no estoy escribiendo código, probablemente me encuentres:
 
 **Web Developer | Student at 42 Madrid | Design & Code Enthusiast**
 
-I currently work as a web developer at **DGTL** in Madrid. I come from a **Fine Arts** background, but my passion for creating led me to code. I'm a student at **42 Madrid**, an immersive experience where I've built a solid foundation in logic and problem-solving, learning to work with `C` at a systems and algorithmic level. I love combining that structured foundation with developing clean, accessible, and well-designed interfaces.
+I currently work as a web developer at **DGTL** in Madrid. I come from a **Visual Arts** background, but my passion for creating led me to code. I'm a student at **42 Madrid**, an immersive experience where I've built a solid foundation in logic and problem-solving, learning to work with `C` at a systems and algorithmic level. I love combining that structured foundation with developing clean, accessible, and well-designed interfaces.
 
 #### 👨‍💻 About me
 - 🏢 I work developing web solutions and exploring modern technologies in production.
@@ -95,13 +95,12 @@ When I'm not writing code, you'll probably find me:
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ _HABILIDADES
 
-| Category | Technologies |
+| Categoría | Tecnologías & Disciplinas |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) |
-| **Backend & Logic** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Tools & Design** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
+| **# DESARROLLO** | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Astro](https://img.shields.io/badge/Astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Terminal](https://img.shields.io/badge/Terminal-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) |
+| **# DISEÑO** | ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Wireframing](https://img.shields.io/badge/Wireframing-181818?style=for-the-badge&logo=figma&logoColor=c82a2a) ![UX Research](https://img.shields.io/badge/UX_Research-c82a2a?style=for-the-badge) ![Prototipado](https://img.shields.io/badge/Prototipado-181818?style=for-the-badge) ![Sistemas de Diseño](https://img.shields.io/badge/Sistemas_de_Diseño-c82a2a?style=for-the-badge) ![Accesibilidad](https://img.shields.io/badge/Accesibilidad_(a11y)-181818?style=for-the-badge&logo=w3c&logoColor=white) |
 
 ---
 
@@ -136,8 +135,8 @@ When I'm not writing code, you'll probably find me:
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:alexgmatosc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-alexgmatosc%40gmail.com-181818?style=for-the-badge&logo=gmail&logoColor=c82a2a" alt="Email" />
+  <a href="mailto:hola@alexmatos.dev">
+    <img src="https://img.shields.io/badge/Email-hola%40alexmatos.dev-181818?style=for-the-badge&logo=gmail&logoColor=c82a2a" alt="Email" />
   </a>
 </div>
 
